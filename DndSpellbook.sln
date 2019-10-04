@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DndSpellbook", "DndSpellbook\DndSpellbook.csproj", "{A5C646D9-BD47-4DC7-A3A7-6EA33C2B21ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C646D9-BD47-4DC7-A3A7-6EA33C2B21ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C646D9-BD47-4DC7-A3A7-6EA33C2B21ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C646D9-BD47-4DC7-A3A7-6EA33C2B21ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C646D9-BD47-4DC7-A3A7-6EA33C2B21ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E88AE8-AB8F-4DA4-82C5-53865CB4F406}
+	EndGlobalSection
+EndGlobal
